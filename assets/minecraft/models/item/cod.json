@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cod"
+	},
+	
+	"overrides": [
+			{"predicate": {"custom_model_data":1001000}, "model": "item/fishloot/goldfish"},
+			{"predicate": {"custom_model_data":1001001}, "model": "item/fishloot/dead_fish"}
+	]
+}

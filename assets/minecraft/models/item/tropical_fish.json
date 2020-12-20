@@ -1,0 +1,18 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/tropical_fish"
+	},
+	
+	"overrides": [
+			{"predicate": {"custom_model_data":1001400}, "model": "item/fishloot/angelfish"},
+			{"predicate": {"custom_model_data":1001401}, "model": "item/fishloot/sunfish"},
+			{"predicate": {"custom_model_data":1001402}, "model": "item/fishloot/coin"},
+			{"predicate": {"custom_model_data":1001403}, "model": "item/fishloot/coins_bag"},
+			{"predicate": {"custom_model_data":1001404}, "model": "item/fishloot/treasure_chest"},
+			{"predicate": {"custom_model_data":1001405}, "model": "item/fishloot/trunk"},
+			{"predicate": {"custom_model_data":1001406}, "model": "item/fishloot/can"},
+			{"predicate": {"custom_model_data":1001407}, "model": "item/fishloot/broken_bucket"},
+			{"predicate": {"custom_model_data":1001408}, "model": "item/fishloot/bootle_with_a_letter"}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/pufferfish"
+	},
+	
+	"overrides": [
+			{"predicate": {"custom_model_data":1001200}, "model": "item/fishloot/diamond_pufferfish"},
+			{"predicate": {"custom_model_data":1001201}, "model": "item/fishloot/crab"},
+			{"predicate": {"custom_model_data":1001202}, "model": "item/fishloot/golden_crab"},
+			{"predicate": {"custom_model_data":1001203}, "model": "item/fishloot/blue_jellyfish"},
+			{"predicate": {"custom_model_data":1001204}, "model": "item/fishloot/green_jellyfish"},
+			{"predicate": {"custom_model_data":1001205}, "model": "item/fishloot/yellow_jellyfish"},
+			{"predicate": {"custom_model_data":1001206}, "model": "item/fishloot/orange_jellyfish"},
+			{"predicate": {"custom_model_data":1001207}, "model": "item/fishloot/purple_jellyfish"},
+			{"predicate": {"custom_model_data":1001208}, "model": "item/fishloot/blue_starfish"},
+			{"predicate": {"custom_model_data":1001209}, "model": "item/fishloot/green_starfish"},
+			{"predicate": {"custom_model_data":1001210}, "model": "item/fishloot/yellow_starfish"},
+			{"predicate": {"custom_model_data":1001211}, "model": "item/fishloot/orange_starfish"},
+			{"predicate": {"custom_model_data":1001212}, "model": "item/fishloot/pink_starfish"}
+	]
+}

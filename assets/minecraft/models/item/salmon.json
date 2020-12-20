@@ -1,0 +1,15 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/salmon"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1001101}, "model": "item/fishloot/anglerfish"},
+		{"predicate": {"custom_model_data":1001102}, "model": "item/fishloot/zombie_fish"},
+		{"predicate": {"custom_model_data":1001103}, "model": "item/fishloot/skeleton_fish"},
+		{"predicate": {"custom_model_data":1001104}, "model": "item/fishloot/spider_fish"},
+		{"predicate": {"custom_model_data":1001105}, "model": "item/fishloot/ghost_fish"},
+		{"predicate": {"custom_model_data":1001106}, "model": "item/fishloot/endersquid"}
+	]
+}

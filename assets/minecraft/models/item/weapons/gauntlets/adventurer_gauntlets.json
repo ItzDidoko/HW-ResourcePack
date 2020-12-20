@@ -1,0 +1,59 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/weapons/gauntlets/adventurer_gauntlets",
+		"particle": "item/weapons/gauntlets/adventurer_gauntlets"
+	},
+	"elements": [
+		{
+			"from": [10, 0, 0],
+			"to": [14, 5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [21, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 11, 4, 16], "texture": "#0"},
+				"east": {"uv": [12, 11, 16, 16], "texture": "#0"},
+				"south": {"uv": [8, 11, 12, 16], "texture": "#0"},
+				"west": {"uv": [4, 11, 8, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"down": {"uv": [0, 7, 4, 11], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-4.55, -8.9, 7.75],
+			"scale": [1.15, 1, 1.15]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [4.55, -8.9, 7.75],
+			"scale": [1.15, 1, 1.15]
+		},
+		"firstperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-4.55, -8.25, 7.75],
+			"scale": [1.15, 1, 1.15]
+		},
+		"firstperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [4.55, -8.9, 7.75],
+			"scale": [1.15, 1, 1.15]
+		},
+		"ground": {
+			"translation": [-4, 4.5, 6]
+		},
+		"gui": {
+			"rotation": [0, 160, 33],
+			"translation": [16, 5.5, 0],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"translation": [-4.55, 8.5, -2],
+			"scale": [1.15, 1, 1.15]
+		},
+		"fixed": {
+			"translation": [-4, 6, 4]
+		}
+	}
+}
