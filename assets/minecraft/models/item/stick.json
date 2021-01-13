@@ -53,6 +53,13 @@
 		{"predicate": {"custom_model_data":10043}, "model": "item/modifiers/webbed"},
 		{"predicate": {"custom_model_data":10044}, "model": "item/modifiers/evasion"},
 		{"predicate": {"custom_model_data":10045}, "model": "item/modifiers/drilling"},
-		{"predicate": {"custom_model_data":10046}, "model": "item/modifiers/hardened"}
+		{"predicate": {"custom_model_data":10046}, "model": "item/modifiers/hardened"},
+
+		{"predicate": {"custom_model_data":10100}, "model": "item/asmodels/stats/health"},
+		{"predicate": {"custom_model_data":10101}, "model": "item/asmodels/stats/strength"},
+		{"predicate": {"custom_model_data":10102}, "model": "item/asmodels/stats/regeneration"},
+		{"predicate": {"custom_model_data":10103}, "model": "item/asmodels/stats/luck"},
+		{"predicate": {"custom_model_data":10104}, "model": "item/asmodels/stats/wisdom"},
+		{"predicate": {"custom_model_data":10105}, "model": "item/asmodels/stats/resistance"}
 	]
 }
