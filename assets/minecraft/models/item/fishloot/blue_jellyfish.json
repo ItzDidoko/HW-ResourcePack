@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/blue_jellyfish"
+		"layer0": "item/fishing/blue_jellyfish"
 	}
 }

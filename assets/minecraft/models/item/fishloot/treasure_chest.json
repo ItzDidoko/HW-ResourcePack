@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/treasure_chest"
+		"layer0": "item/fishing/treasure_chest"
 	}
 }

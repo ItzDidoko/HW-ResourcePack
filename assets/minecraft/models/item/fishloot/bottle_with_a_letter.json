@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/bottle_with_a_letter"
+		"layer0": "item/fishing/bottle_with_a_letter"
 	}
 }

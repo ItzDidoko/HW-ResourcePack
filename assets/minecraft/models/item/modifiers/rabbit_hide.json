@@ -5,6 +5,6 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":1000001}, "model": "item/speedy"}
+		{"predicate": {"custom_model_data":1000001}, "model": "item/modifiers/speedy"}
 	]
 }

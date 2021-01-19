@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures":{
-		"layer0": "item/webbed"
+		"layer0": "item/modifiers/webbed"
 	}
 }

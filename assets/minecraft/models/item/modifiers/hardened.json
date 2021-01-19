@@ -1,3 +1,3 @@
 { "parent": "item/generated",
- "textures": { "layer0": "item/hardened" }
+ "textures": { "layer0": "item/modifiers/hardened" }
 }

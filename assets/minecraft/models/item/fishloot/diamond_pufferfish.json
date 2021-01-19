@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/diamond_pufferfish"
+		"layer0": "item/fishing/diamond_pufferfish"
 	}
 }
